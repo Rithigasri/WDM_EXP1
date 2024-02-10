@@ -78,9 +78,10 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 ### EMPLOYEE:
-![exp1Dadd](https://github.com/Rithigasri/WDM_EXP1/assets/93427256/99ec740e-5539-40d0-a6fa-5d9473cf336e)
+![exp1Dadd](https://github.com/Rithigasri/WDM_EXP1/assets/93427256/9b3caef0-1290-4966-baee-29c3aef842c0)
 ### WEATHER:
-![exp1Cadd](https://github.com/Rithigasri/WDM_EXP1/assets/93427256/00a620e1-2236-446f-be59-b12767754dec)
+![exp1Cadd](https://github.com/Rithigasri/WDM_EXP1/assets/93427256/2196cd2f-e572-436a-89fc-27dbc400de59)
+
 
 ### 2) Remove -> Pre-Processing Technique:
 
